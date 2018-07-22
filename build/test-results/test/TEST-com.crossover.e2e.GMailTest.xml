@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crossover.e2e.GMailTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-22T18:25:42" hostname="Admin-ifc" time="55.527">
+  <properties/>
+  <testcase name="testCompleteScenario" classname="com.crossover.e2e.GMailTest" time="55.527"/>
+  <system-out><![CDATA[D:\eclipse-workspace\qa-automation-selenium-java\src\test\java\com\crossover\data\FileUploadHard.exe
+Total Messages:3
+Unread Messages:1
+Total Relevant Messages:2
+FOUND!!
+<div dir="ltr">Test Mail</div>
+
+isMailFound :: true
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 6490
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
