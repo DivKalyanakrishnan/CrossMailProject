@@ -1,4 +1,4 @@
-package com.crossover.e2e;
+package test.java.com.crossover.e2e;
 
 import junit.framework.TestCase;
 import org.junit.Test;
@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
-import com.crossover.page.*;
+import test.java.com.crossover.page.*;
 
 public class GMailTest extends TestCase {
 	static WebDriver driver = null;	
